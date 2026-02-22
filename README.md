@@ -40,7 +40,3 @@ npm run preview
 - React 19
 - Vite
 - ESLint
-
-## License
-
-MIT
