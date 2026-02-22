@@ -114,5 +114,3 @@ Upload the generated `dist` folder to your hosting provider.
 MERN Stack Developer | From Idea to Deployment 🚀
 
 ---
-
-**Note:** The clone URL has been updated to your actual GitHub repository. This README is now 100% production-ready and customized for your project!
